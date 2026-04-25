@@ -1,12 +1,12 @@
 "use client";
 
-import { PageHeader } from "@/components/utils/pageHeader";
+import { Header } from "@/components/utils/header";
 
 function HomePage() {
   return (
     <main className="">
       <div>
-        <PageHeader pageName="Home" />
+        <Header pageName="Home" />
       </div>
     </main>
   );
