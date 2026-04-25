@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { useMyContext } from "@/useContext/MyContext";
+import { useMyContext } from "@/useContext/myContext";
 
 const FIELD =
   "w-full bg-stone-50 border border-stone-200 rounded-sm px-3 py-2.5 font-mono text-[12px] text-stone-800 placeholder:text-stone-300 focus:outline-none focus:border-stone-500 focus:bg-white transition-colors duration-150";

@@ -1,6 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import { useMyContext } from "@/useContext/MyContext";
+import { useMyContext } from "@/useContext/myContext";
 import { useRouter } from "next/navigation";
 import { Header } from "@/components/utils/header";
 import { Footer } from "@/components/utils/footer";

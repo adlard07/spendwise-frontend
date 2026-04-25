@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { useMyContext } from "@/useContext/MyContext";
+import { useMyContext } from "@/useContext/myContext";
 import { decodeAccessToken } from "@/lib/globalHelpers";
 import Link from "next/link";
 import { initCsrf, login } from "@/auth/auth";

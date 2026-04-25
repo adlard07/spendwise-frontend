@@ -1,4 +1,4 @@
-import { MyContextProvider } from "@/useContext/MyContext";
+import { MyContextProvider } from "@/useContext/myContext";
 import "./globals.css";
 
 export const metadata = {
